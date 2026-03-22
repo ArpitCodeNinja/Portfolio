@@ -9,7 +9,7 @@ const PROJECTS = [
     tag: "Machine Learning · Streamlit",
     description:
       "A content-based movie recommendation system using TF-IDF and cosine similarity to suggest similar movies based on genre and metadata, integrated with a deep learning sentiment analysis model to classify user reviews as positive or negative, delivered through an interactive Streamlit interface.",
-    image: "/machine.png",
+    image: "/movie.png",
     alt: "Movie Recommendation System with sentimental Analysis",
     deployUrl: "https://movierecommendationsystemforthewebsite-hra8w9ckqegyrn4ydqwpm7.streamlit.app/?view=home",
     githubUrl: "https://github.com/ArpitCodeNinja/Movie-Recommendation-System-with-sentimental-Analysis",
