@@ -30,7 +30,7 @@ const CERTIFICATES = [
   },
   {
     id: 4,
-    title: "GEN AI NASSCO",
+    title: "GEN AI NASSCOM",
     detail: "Earned for passing rigorous technical assessments and demonstrating strong problem-solving skills.",
     file: "/Certificate/certificate-CERT-1771500708169.png",
     type: "image"
